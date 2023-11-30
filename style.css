@@ -141,7 +141,7 @@ body{
 @media(max-width:600px){
 
     #main{
-        margin-left: 13%;
+        margin-left: 12%;
         /* max-width: 367px; */
         margin-top: 100px;
     }
@@ -197,6 +197,7 @@ li.extra{
     padding: 5px;
     transform: none;
 }
+
 
 
 
